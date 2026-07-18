@@ -79,7 +79,8 @@
    },
    {
     "type": "text",
-    "text": "You climb the ladder to the top. The peaches there are the biggest and roundest of all. You fill your basket until it overflows."
+    "text": "You climb the ladder to the top. The peaches there are the biggest and roundest of all. You fill your basket until it overflows.",
+    "art": "orchard_tree"
    },
    {
     "type": "choice",
@@ -172,7 +173,8 @@
    },
    {
     "type": "text",
-    "text": "You climb the ladder until you reach the very top, where the biggest and roundest peaches hang. You fill your basket until it overflows."
+    "text": "You climb the ladder until you reach the very top, where the biggest and roundest peaches hang. You fill your basket until it overflows.",
+    "art": "orchard_tree"
    },
    {
     "type": "choice",
@@ -203,108 +205,416 @@
   ]
  },
  "dict": {
-  "summer": {"pos": "명사", "ko": "여름"},
-  "friend": {"pos": "명사", "ko": "친구"},
-  "peach": {"pos": "명사", "ko": "복숭아", "exEn": "This peach is ripe.", "exKo": "이 복숭아는 잘 익었어요."},
-  "peaches": {"pos": "명사", "ko": "복숭아들 (peach의 복수형)"},
-  "who": {"pos": "대명사", "ko": "~하는 (사람) (관계대명사)"},
-  "owns": {"pos": "동사", "ko": "소유해요 (own의 3인칭)"},
-  "orchard": {"pos": "명사", "ko": "과수원"},
-  "hill": {"pos": "명사", "ko": "언덕"},
-  "tree": {"pos": "명사", "ko": "나무"},
-  "trees": {"pos": "명사", "ko": "나무들 (tree의 복수형)"},
-  "fruit": {"pos": "명사", "ko": "과일, 열매"},
-  "harvest": {"pos": "명사", "ko": "수확"},
-  "gate": {"pos": "명사", "ko": "대문, 입구"},
-  "welcome": {"pos": "감탄사", "ko": "어서 와요, 환영해요"},
-  "cant": {"pos": "축약", "ko": "can't = cannot (~할 수 없어요)"},
-  "get": {"pos": "동사", "ko": "~하게 되다 (get started: 시작하다)"},
-  "getting": {"pos": "동사", "ko": "~하게 되는 것 (get의 -ing형)"},
-  "started": {"pos": "동사", "ko": "시작하다의 과거분사 (get started: 시작하다)"},
-  "eager": {"pos": "형용사", "ko": "의욕 넘치는, 열심인"},
-  "helper": {"pos": "명사", "ko": "돕는 사람, 일손"},
-  "helpers": {"pos": "명사", "ko": "일손들 (helper의 복수형)"},
-  "kind": {"pos": "명사", "ko": "종류"},
-  "do": {"pos": "동사", "ko": "하다 (의문문을 만드는 조동사로도 써요)"},
-  "know": {"pos": "동사", "ko": "알다"},
-  "which": {"pos": "대명사", "ko": "어느 것, 어떤"},
-  "ones": {"pos": "대명사", "ko": "것들 (one의 복수형)"},
-  "ready": {"pos": "형용사", "ko": "준비된, (과일이) 다 익은"},
-  "listen": {"pos": "동사", "ko": "귀 기울이다, 듣다"},
-  "fingers": {"pos": "명사", "ko": "손가락들"},
-  "shows": {"pos": "동사", "ko": "보여줘요 (show의 3인칭)"},
-  "touch": {"pos": "동사", "ko": "만지다, 닿다"},
-  "skin": {"pos": "명사", "ko": "껍질, 살갗"},
-  "sun": {"pos": "명사", "ko": "해, 햇살"},
-  "covered": {"pos": "동사", "ko": "덮여 있는 (cover의 과거분사)"},
-  "soft": {"pos": "형용사", "ko": "부드러운"},
-  "fuzz": {"pos": "명사", "ko": "솜털"},
-  "being": {"pos": "동사", "ko": "~하고 있는 (be의 진행형)"},
-  "sweetest": {"pos": "형용사", "ko": "가장 달콤한 (sweet의 최상급)"},
-  "feels": {"pos": "동사", "ko": "~한 느낌이에요 (feel의 3인칭)"},
-  "last": {"pos": "동사", "ko": "오래가다, 남아 있다"},
-  "taste": {"pos": "동사", "ko": "맛보다"},
-  "juice": {"pos": "명사", "ko": "즙, 과즙"},
-  "runs": {"pos": "동사", "ko": "흘러내려요 (run의 3인칭)"},
-  "chin": {"pos": "명사", "ko": "턱"},
-  "messy": {"pos": "형용사", "ko": "지저분해지는, 흘리게 되는"},
-  "points": {"pos": "동사", "ko": "가리켜요 (point의 3인칭)"},
-  "grow": {"pos": "동사", "ko": "자라다, 열리다"},
-  "highest": {"pos": "형용사", "ko": "가장 높은 (high의 최상급)"},
-  "high": {"pos": "부사", "ko": "높이, 높은 곳까지"},
-  "branch": {"pos": "명사", "ko": "나뭇가지"},
-  "branches": {"pos": "명사", "ko": "나뭇가지들"},
-  "most": {"pos": "형용사", "ko": "대부분의"},
-  "reach": {"pos": "동사", "ko": "닿다, 손을 뻗다"},
-  "climb": {"pos": "동사", "ko": "오르다 (명사로는 '오르는 일')"},
-  "ladder": {"pos": "명사", "ko": "사다리"},
-  "top": {"pos": "명사", "ko": "꼭대기"},
-  "roundest": {"pos": "형용사", "ko": "가장 둥근 (round의 최상급)"},
-  "fill": {"pos": "동사", "ko": "채우다"},
-  "until": {"pos": "접속사", "ko": "~할 때까지"},
-  "overflows": {"pos": "동사", "ko": "넘쳐흘러요 (overflow의 3인칭)"},
-  "overflow": {"pos": "동사", "ko": "넘치다"},
-  "men": {"pos": "명사", "ko": "남자들 (man의 복수형)"},
-  "did": {"pos": "동사", "ko": "했어요 (do의 과거형)"},
-  "asks": {"pos": "동사", "ko": "물어요 (ask의 3인칭)"},
-  "why": {"pos": "부사", "ko": "왜"},
-  "love": {"pos": "동사", "ko": "사랑하다, 아주 좋아하다"},
-  "smell": {"pos": "명사", "ko": "냄새, 향기 (동사: 냄새가 나다)"},
-  "some": {"pos": "형용사", "ko": "어떤, 몇몇의"},
-  "worth": {"pos": "형용사", "ko": "~할 가치가 있는"},
-  "news": {"pos": "명사", "ko": "소식"},
-  "ground": {"pos": "명사", "ko": "땅"},
-  "promised": {"pos": "동사", "ko": "약속했어요 (promise의 과거형)"},
-  "hardest": {"pos": "형용사", "ko": "가장 열심인 (hard의 최상급)"},
-  "worker": {"pos": "명사", "ko": "일꾼"},
-  "greets": {"pos": "동사", "ko": "맞이해요 (greet의 3인칭)"},
-  "knowing": {"pos": "형용사", "ko": "다 안다는 듯한"},
-  "perfectly": {"pos": "부사", "ko": "완벽하게"},
-  "season": {"pos": "명사", "ko": "계절, 철"},
-  "approvingly": {"pos": "부사", "ko": "흐뭇하다는 듯"},
-  "rarest": {"pos": "형용사", "ko": "가장 귀한 (rare의 최상급)"},
-  "itself": {"pos": "대명사", "ko": "그것 스스로"},
-  "simply": {"pos": "부사", "ko": "그저, 단지"},
-  "leads": {"pos": "동사", "ko": "데려가요, 이끌어요 (lead의 3인칭)"},
-  "instructs": {"pos": "동사", "ko": "알려줘요, 가르쳐줘요 (instruct의 3인칭)"},
-  "afternoon": {"pos": "명사", "ko": "오후"},
-  "softest": {"pos": "형용사", "ko": "가장 부드러운 (soft의 최상급)"},
-  "seems": {"pos": "동사", "ko": "~처럼 보여요 (seem의 3인칭)"},
-  "rest": {"pos": "동사", "ko": "머물다, 가만히 놓이다"},
-  "gently": {"pos": "부사", "ko": "부드럽게, 살살"},
-  "patient": {"pos": "형용사", "ko": "참을성 있는, 느긋한"},
-  "find": {"pos": "동사", "ko": "찾다, 찾아내다"},
-  "stay": {"pos": "동사", "ko": "머무르다, 남아 있다"},
-  "tallest": {"pos": "형용사", "ko": "가장 키가 큰 (tall의 최상급)"},
-  "where": {"pos": "부사", "ko": "~하는 곳 (관계부사)"},
-  "bother": {"pos": "동사", "ko": "굳이 ~하려 하다, 애쓰다"},
-  "hang": {"pos": "동사", "ko": "매달리다, 열려 있다"},
-  "however": {"pos": "부사", "ko": "하지만, 그러나"},
-  "things": {"pos": "명사", "ko": "것들, 말들"},
-  "beside": {"pos": "전치사", "ko": "~옆에서"},
-  "threatens": {"pos": "동사", "ko": "금방이라도 ~할 것 같아요 (threaten의 3인칭)"},
-  "understand": {"pos": "동사", "ko": "이해하다"},
-  "lingers": {"pos": "동사", "ko": "은은하게 남아 있어요 (linger의 3인칭)"}
+  "summer": {
+   "pos": "명사",
+   "ko": "여름"
+  },
+  "friend": {
+   "pos": "명사",
+   "ko": "친구"
+  },
+  "peach": {
+   "pos": "명사",
+   "ko": "복숭아",
+   "exEn": "This peach is ripe.",
+   "exKo": "이 복숭아는 잘 익었어요."
+  },
+  "peaches": {
+   "pos": "명사",
+   "ko": "복숭아들 (peach의 복수형)"
+  },
+  "who": {
+   "pos": "대명사",
+   "ko": "~하는 (사람) (관계대명사)"
+  },
+  "owns": {
+   "pos": "동사",
+   "ko": "소유해요 (own의 3인칭)"
+  },
+  "orchard": {
+   "pos": "명사",
+   "ko": "과수원"
+  },
+  "hill": {
+   "pos": "명사",
+   "ko": "언덕"
+  },
+  "tree": {
+   "pos": "명사",
+   "ko": "나무"
+  },
+  "trees": {
+   "pos": "명사",
+   "ko": "나무들 (tree의 복수형)"
+  },
+  "fruit": {
+   "pos": "명사",
+   "ko": "과일, 열매"
+  },
+  "harvest": {
+   "pos": "명사",
+   "ko": "수확"
+  },
+  "gate": {
+   "pos": "명사",
+   "ko": "대문, 입구"
+  },
+  "welcome": {
+   "pos": "감탄사",
+   "ko": "어서 와요, 환영해요"
+  },
+  "cant": {
+   "pos": "축약",
+   "ko": "can't = cannot (~할 수 없어요)"
+  },
+  "get": {
+   "pos": "동사",
+   "ko": "~하게 되다 (get started: 시작하다)"
+  },
+  "getting": {
+   "pos": "동사",
+   "ko": "~하게 되는 것 (get의 -ing형)"
+  },
+  "started": {
+   "pos": "동사",
+   "ko": "시작하다의 과거분사 (get started: 시작하다)"
+  },
+  "eager": {
+   "pos": "형용사",
+   "ko": "의욕 넘치는, 열심인"
+  },
+  "helper": {
+   "pos": "명사",
+   "ko": "돕는 사람, 일손"
+  },
+  "helpers": {
+   "pos": "명사",
+   "ko": "일손들 (helper의 복수형)"
+  },
+  "kind": {
+   "pos": "명사",
+   "ko": "종류"
+  },
+  "do": {
+   "pos": "동사",
+   "ko": "하다 (의문문을 만드는 조동사로도 써요)"
+  },
+  "know": {
+   "pos": "동사",
+   "ko": "알다"
+  },
+  "which": {
+   "pos": "대명사",
+   "ko": "어느 것, 어떤"
+  },
+  "ones": {
+   "pos": "대명사",
+   "ko": "것들 (one의 복수형)"
+  },
+  "ready": {
+   "pos": "형용사",
+   "ko": "준비된, (과일이) 다 익은"
+  },
+  "listen": {
+   "pos": "동사",
+   "ko": "귀 기울이다, 듣다"
+  },
+  "fingers": {
+   "pos": "명사",
+   "ko": "손가락들"
+  },
+  "shows": {
+   "pos": "동사",
+   "ko": "보여줘요 (show의 3인칭)"
+  },
+  "touch": {
+   "pos": "동사",
+   "ko": "만지다, 닿다"
+  },
+  "skin": {
+   "pos": "명사",
+   "ko": "껍질, 살갗"
+  },
+  "sun": {
+   "pos": "명사",
+   "ko": "해, 햇살"
+  },
+  "covered": {
+   "pos": "동사",
+   "ko": "덮여 있는 (cover의 과거분사)"
+  },
+  "soft": {
+   "pos": "형용사",
+   "ko": "부드러운"
+  },
+  "fuzz": {
+   "pos": "명사",
+   "ko": "솜털"
+  },
+  "being": {
+   "pos": "동사",
+   "ko": "~하고 있는 (be의 진행형)"
+  },
+  "sweetest": {
+   "pos": "형용사",
+   "ko": "가장 달콤한 (sweet의 최상급)"
+  },
+  "feels": {
+   "pos": "동사",
+   "ko": "~한 느낌이에요 (feel의 3인칭)"
+  },
+  "last": {
+   "pos": "동사",
+   "ko": "오래가다, 남아 있다"
+  },
+  "taste": {
+   "pos": "동사",
+   "ko": "맛보다"
+  },
+  "juice": {
+   "pos": "명사",
+   "ko": "즙, 과즙"
+  },
+  "runs": {
+   "pos": "동사",
+   "ko": "흘러내려요 (run의 3인칭)"
+  },
+  "chin": {
+   "pos": "명사",
+   "ko": "턱"
+  },
+  "messy": {
+   "pos": "형용사",
+   "ko": "지저분해지는, 흘리게 되는"
+  },
+  "points": {
+   "pos": "동사",
+   "ko": "가리켜요 (point의 3인칭)"
+  },
+  "grow": {
+   "pos": "동사",
+   "ko": "자라다, 열리다"
+  },
+  "highest": {
+   "pos": "형용사",
+   "ko": "가장 높은 (high의 최상급)"
+  },
+  "high": {
+   "pos": "부사",
+   "ko": "높이, 높은 곳까지"
+  },
+  "branch": {
+   "pos": "명사",
+   "ko": "나뭇가지"
+  },
+  "branches": {
+   "pos": "명사",
+   "ko": "나뭇가지들"
+  },
+  "most": {
+   "pos": "형용사",
+   "ko": "대부분의"
+  },
+  "reach": {
+   "pos": "동사",
+   "ko": "닿다, 손을 뻗다"
+  },
+  "climb": {
+   "pos": "동사",
+   "ko": "오르다 (명사로는 '오르는 일')"
+  },
+  "ladder": {
+   "pos": "명사",
+   "ko": "사다리"
+  },
+  "top": {
+   "pos": "명사",
+   "ko": "꼭대기"
+  },
+  "roundest": {
+   "pos": "형용사",
+   "ko": "가장 둥근 (round의 최상급)"
+  },
+  "fill": {
+   "pos": "동사",
+   "ko": "채우다"
+  },
+  "until": {
+   "pos": "접속사",
+   "ko": "~할 때까지"
+  },
+  "overflows": {
+   "pos": "동사",
+   "ko": "넘쳐흘러요 (overflow의 3인칭)"
+  },
+  "overflow": {
+   "pos": "동사",
+   "ko": "넘치다"
+  },
+  "men": {
+   "pos": "명사",
+   "ko": "남자들 (man의 복수형)"
+  },
+  "did": {
+   "pos": "동사",
+   "ko": "했어요 (do의 과거형)"
+  },
+  "asks": {
+   "pos": "동사",
+   "ko": "물어요 (ask의 3인칭)"
+  },
+  "why": {
+   "pos": "부사",
+   "ko": "왜"
+  },
+  "love": {
+   "pos": "동사",
+   "ko": "사랑하다, 아주 좋아하다"
+  },
+  "smell": {
+   "pos": "명사",
+   "ko": "냄새, 향기 (동사: 냄새가 나다)"
+  },
+  "some": {
+   "pos": "형용사",
+   "ko": "어떤, 몇몇의"
+  },
+  "worth": {
+   "pos": "형용사",
+   "ko": "~할 가치가 있는"
+  },
+  "news": {
+   "pos": "명사",
+   "ko": "소식"
+  },
+  "ground": {
+   "pos": "명사",
+   "ko": "땅"
+  },
+  "promised": {
+   "pos": "동사",
+   "ko": "약속했어요 (promise의 과거형)"
+  },
+  "hardest": {
+   "pos": "형용사",
+   "ko": "가장 열심인 (hard의 최상급)"
+  },
+  "worker": {
+   "pos": "명사",
+   "ko": "일꾼"
+  },
+  "greets": {
+   "pos": "동사",
+   "ko": "맞이해요 (greet의 3인칭)"
+  },
+  "knowing": {
+   "pos": "형용사",
+   "ko": "다 안다는 듯한"
+  },
+  "perfectly": {
+   "pos": "부사",
+   "ko": "완벽하게"
+  },
+  "season": {
+   "pos": "명사",
+   "ko": "계절, 철"
+  },
+  "approvingly": {
+   "pos": "부사",
+   "ko": "흐뭇하다는 듯"
+  },
+  "rarest": {
+   "pos": "형용사",
+   "ko": "가장 귀한 (rare의 최상급)"
+  },
+  "itself": {
+   "pos": "대명사",
+   "ko": "그것 스스로"
+  },
+  "simply": {
+   "pos": "부사",
+   "ko": "그저, 단지"
+  },
+  "leads": {
+   "pos": "동사",
+   "ko": "데려가요, 이끌어요 (lead의 3인칭)"
+  },
+  "instructs": {
+   "pos": "동사",
+   "ko": "알려줘요, 가르쳐줘요 (instruct의 3인칭)"
+  },
+  "afternoon": {
+   "pos": "명사",
+   "ko": "오후"
+  },
+  "softest": {
+   "pos": "형용사",
+   "ko": "가장 부드러운 (soft의 최상급)"
+  },
+  "seems": {
+   "pos": "동사",
+   "ko": "~처럼 보여요 (seem의 3인칭)"
+  },
+  "rest": {
+   "pos": "동사",
+   "ko": "머물다, 가만히 놓이다"
+  },
+  "gently": {
+   "pos": "부사",
+   "ko": "부드럽게, 살살"
+  },
+  "patient": {
+   "pos": "형용사",
+   "ko": "참을성 있는, 느긋한"
+  },
+  "find": {
+   "pos": "동사",
+   "ko": "찾다, 찾아내다"
+  },
+  "stay": {
+   "pos": "동사",
+   "ko": "머무르다, 남아 있다"
+  },
+  "tallest": {
+   "pos": "형용사",
+   "ko": "가장 키가 큰 (tall의 최상급)"
+  },
+  "where": {
+   "pos": "부사",
+   "ko": "~하는 곳 (관계부사)"
+  },
+  "bother": {
+   "pos": "동사",
+   "ko": "굳이 ~하려 하다, 애쓰다"
+  },
+  "hang": {
+   "pos": "동사",
+   "ko": "매달리다, 열려 있다"
+  },
+  "however": {
+   "pos": "부사",
+   "ko": "하지만, 그러나"
+  },
+  "things": {
+   "pos": "명사",
+   "ko": "것들, 말들"
+  },
+  "beside": {
+   "pos": "전치사",
+   "ko": "~옆에서"
+  },
+  "threatens": {
+   "pos": "동사",
+   "ko": "금방이라도 ~할 것 같아요 (threaten의 3인칭)"
+  },
+  "understand": {
+   "pos": "동사",
+   "ko": "이해하다"
+  },
+  "lingers": {
+   "pos": "동사",
+   "ko": "은은하게 남아 있어요 (linger의 3인칭)"
+  }
  },
  "wink": {
   "peach": "영어에서 peach는 '매력적인 사람'을 가리키는 오래된 은어이기도 해요.",

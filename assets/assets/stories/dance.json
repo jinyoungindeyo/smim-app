@@ -18,7 +18,8 @@
   "normal": [
    {
     "type": "text",
-    "text": "Friday evening. You walk into the community center for your first tango class. The teacher, Carlos, waits in the middle of the room."
+    "text": "Friday evening. You walk into the community center for your first tango class. The teacher, Carlos, waits in the middle of the room.",
+    "art": "dance_hall"
    },
    {
     "type": "text",
@@ -70,7 +71,8 @@
    },
    {
     "type": "text",
-    "text": "You walk together across the floor. Step, step, pause. Slowly, your two bodies find one rhythm."
+    "text": "You walk together across the floor. Step, step, pause. Slowly, your two bodies find one rhythm.",
+    "art": "dance_hold"
    },
    {
     "type": "text",
@@ -98,7 +100,8 @@
    },
    {
     "type": "text",
-    "text": "For the last move, Carlos dips you low and holds you there. \"Give me your weight. I have you. Stay — I could hold this all night, but the music, sadly, cannot.\""
+    "text": "For the last move, Carlos dips you low and holds you there. \"Give me your weight. I have you. Stay — I could hold this all night, but the music, sadly, cannot.\"",
+    "art": "dance_dip"
    },
    {
     "type": "text",
@@ -108,7 +111,8 @@
   "hard": [
    {
     "type": "text",
-    "text": "It is Friday evening, and you push open the door of the community center, where your first tango class is about to begin. The teacher, Carlos, is waiting in the middle of the room."
+    "text": "It is Friday evening, and you push open the door of the community center, where your first tango class is about to begin. The teacher, Carlos, is waiting in the middle of the room.",
+    "art": "dance_hall"
    },
    {
     "type": "text",
@@ -160,7 +164,8 @@
    },
    {
     "type": "text",
-    "text": "You move together across the floor. Step, step, pause. Little by little, your two bodies settle into a single rhythm."
+    "text": "You move together across the floor. Step, step, pause. Little by little, your two bodies settle into a single rhythm.",
+    "art": "dance_hold"
    },
    {
     "type": "text",
@@ -188,7 +193,8 @@
    },
    {
     "type": "text",
-    "text": "For the final move, Carlos dips you low and holds you there. \"Give me all your weight. I have you. Stay — I could hold this all night, but sadly, the music cannot.\""
+    "text": "For the final move, Carlos dips you low and holds you there. \"Give me all your weight. I have you. Stay — I could hold this all night, but sadly, the music cannot.\"",
+    "art": "dance_dip"
    },
    {
     "type": "text",
@@ -197,136 +203,526 @@
   ]
  },
  "dict": {
-  "friday": {"pos": "명사", "ko": "금요일"},
-  "evening": {"pos": "명사", "ko": "저녁"},
-  "community": {"pos": "명사", "ko": "지역 사회, 공동체 (community center: 문화센터)"},
-  "center": {"pos": "명사", "ko": "센터, 회관"},
-  "tango": {"pos": "명사", "ko": "탱고"},
-  "class": {"pos": "명사", "ko": "수업, 강습"},
-  "teacher": {"pos": "명사", "ko": "선생님, 강사"},
-  "carlos": {"pos": "고유명사", "ko": "카를로스 (탱고 강사 이름)"},
-  "middle": {"pos": "명사", "ko": "한가운데"},
-  "welcome": {"pos": "감탄사", "ko": "환영해요, 어서 오세요"},
-  "conversation": {"pos": "명사", "ko": "대화"},
-  "between": {"pos": "전치사", "ko": "~ 사이의"},
-  "bodies": {"pos": "명사", "ko": "몸 (body의 복수형)"},
-  "tonight": {"pos": "부사", "ko": "오늘 밤"},
-  "listen": {"pos": "동사", "ko": "귀 기울이다"},
-  "takes": {"pos": "동사", "ko": "(손을) 잡다"},
-  "polite": {"pos": "형용사", "ko": "예의 바른, 점잖은"},
-  "distance": {"pos": "명사", "ko": "거리, 간격"},
-  "feel": {"pos": "동사", "ko": "느끼다"},
-  "feels": {"pos": "동사", "ko": "~하게 느껴지다"},
-  "partner": {"pos": "명사", "ko": "파트너, 짝"},
-  "breathe": {"pos": "동사", "ko": "숨 쉬다"},
-  "ready": {"pos": "형용사", "ko": "준비된"},
-  "nervous": {"pos": "형용사", "ko": "긴장한"},
-  "admit": {"pos": "동사", "ko": "인정하다, 솔직히 말하다"},
-  "dances": {"pos": "동사", "ko": "춤추다"},
-  "beats": {"pos": "동사", "ko": "(심장이) 뛰다"},
-  "beating": {"pos": "동사", "ko": "뛰고 있는 (beat의 -ing형)"},
-  "fast": {"pos": "부사", "ko": "빠르게"},
-  "places": {"pos": "동사", "ko": "(가만히) 놓다"},
-  "belongs": {"pos": "동사", "ko": "제자리가 ~이다, 속하다"},
-  "settling": {"pos": "동사", "ko": "가만히 얹는 (settle의 -ing형)"},
-  "waist": {"pos": "명사", "ko": "허리"},
-  "firm": {"pos": "형용사", "ko": "단단한, 흔들림 없는"},
-  "must": {"pos": "조동사", "ko": "~해야 하다"},
-  "trust": {"pos": "동사", "ko": "믿다, 맡기다"},
-  "lead": {"pos": "동사", "ko": "이끌다, 리드하다 (명사: 리드)"},
-  "follow": {"pos": "동사", "ko": "따라가다"},
-  "do": {"pos": "조동사", "ko": "(부정문·의문문을 만드는) do"},
-  "let": {"pos": "동사", "ko": "~하게 두다"},
-  "yours": {"pos": "대명사", "ko": "너의 것, 너의 몸"},
-  "answer": {"pos": "동사", "ko": "답하다, 응답하다"},
-  "steps": {"pos": "명사", "ko": "스텝, 발걸음"},
-  "saying": {"pos": "동사", "ko": "말하는 (say의 -ing형)"},
-  "know": {"pos": "동사", "ko": "알다"},
-  "where": {"pos": "부사", "ko": "어디로, 어디에"},
-  "want": {"pos": "동사", "ko": "원하다"},
-  "supposed": {"pos": "형용사", "ko": "~하기로 되어 있는 (be supposed to)"},
-  "tell": {"pos": "동사", "ko": "말해 주다, 알려 주다"},
-  "words": {"pos": "명사", "ko": "말 (word의 복수형)"},
-  "needed": {"pos": "동사", "ko": "필요하다 (need의 과거분사)"},
-  "rarely": {"pos": "부사", "ko": "좀처럼 ~ 않다"},
-  "make": {"pos": "동사", "ko": "(실수를) 하다, 만들다"},
-  "makes": {"pos": "동사", "ko": "만들다"},
-  "mistake": {"pos": "명사", "ko": "실수"},
-  "mistakes": {"pos": "명사", "ko": "실수 (복수형)"},
-  "only": {"pos": "부사", "ko": "오직, ~만"},
-  "move": {"pos": "명사", "ko": "동작 (동사로는 '움직이다')"},
-  "moves": {"pos": "명사", "ko": "동작들"},
-  "we": {"pos": "대명사", "ko": "우리"},
-  "did": {"pos": "동사", "ko": "do의 과거형"},
-  "plan": {"pos": "동사", "ko": "계획하다"},
-  "planned": {"pos": "동사", "ko": "계획하다 (plan의 과거분사)"},
-  "happens": {"pos": "동사", "ko": "일어나다, 생기다"},
-  "nobody": {"pos": "대명사", "ko": "아무도 ~ 않다"},
-  "across": {"pos": "전치사", "ko": "~을 가로질러"},
-  "floor": {"pos": "명사", "ko": "바닥, 플로어"},
-  "pause": {"pos": "명사", "ko": "멈춤, 정지"},
-  "slowly": {"pos": "부사", "ko": "천천히"},
-  "find": {"pos": "동사", "ko": "찾다, 찾아내다"},
-  "single": {"pos": "형용사", "ko": "단 하나의"},
-  "rhythm": {"pos": "명사", "ko": "리듬, 박자"},
-  "hook": {"pos": "동사", "ko": "걸다, 감다"},
-  "leg": {"pos": "명사", "ko": "다리"},
-  "legs": {"pos": "명사", "ko": "다리 (복수형)"},
-  "mine": {"pos": "대명사", "ko": "내 것, 내 다리"},
-  "yes": {"pos": "감탄사", "ko": "네, 그래요"},
-  "tangle": {"pos": "동사", "ko": "엉키다"},
-  "untangle": {"pos": "동사", "ko": "(엉킨 것을) 풀다"},
-  "out": {"pos": "부사", "ko": "밖으로, 빠져나와"},
-  "music": {"pos": "명사", "ko": "음악"},
-  "slows": {"pos": "동사", "ko": "느려지다"},
-  "notice": {"pos": "동사", "ko": "알아차리다"},
-  "face": {"pos": "명사", "ko": "얼굴"},
-  "burning": {"pos": "형용사", "ko": "화끈거리는, 달아오른"},
-  "dancer": {"pos": "명사", "ko": "춤추는 사람"},
-  "heat": {"pos": "명사", "ko": "열기"},
-  "part": {"pos": "명사", "ko": "부분, 일부"},
-  "dance": {"pos": "명사", "ko": "춤"},
-  "try": {"pos": "동사", "ko": "해 보다, 시도하다"},
-  "ending": {"pos": "명사", "ko": "마무리 동작, 결말"},
-  "ah": {"pos": "감탄사", "ko": "아"},
-  "dip": {"pos": "명사", "ko": "딥 (상대를 뒤로 깊게 눕히는 동작)"},
-  "dips": {"pos": "동사", "ko": "(몸을) 뒤로 깊게 기울이다"},
-  "favorite": {"pos": "형용사", "ko": "가장 좋아하는"},
-  "honestly": {"pos": "부사", "ko": "솔직히"},
-  "song": {"pos": "명사", "ko": "노래, 곡"},
-  "end": {"pos": "동사", "ko": "끝나다"},
-  "does": {"pos": "동사", "ko": "do의 3인칭 단수형"},
-  "their": {"pos": "한정사", "ko": "그들의, 각자의"},
-  "effect": {"pos": "명사", "ko": "효과, 영향"},
-  "last": {"pos": "형용사", "ko": "마지막의"},
-  "final": {"pos": "형용사", "ko": "마지막의, 최종의"},
-  "low": {"pos": "부사", "ko": "낮게"},
-  "longer": {"pos": "부사", "ko": "더 오래 (no longer: 더 이상 ~ 않다)"},
-  "asks": {"pos": "동사", "ko": "요구하다, 청하다"},
-  "weight": {"pos": "명사", "ko": "몸무게, 무게"},
-  "stay": {"pos": "동사", "ko": "머무르다, 그대로 있다"},
-  "sweetest": {"pos": "형용사", "ko": "가장 달콤한 (sweet의 최상급)"},
-  "busy": {"pos": "형용사", "ko": "(마음이) 분주한, 바쁜"},
-  "week": {"pos": "명사", "ko": "주, 일주일"},
-  "far": {"pos": "부사", "ko": "멀리"},
-  "refuses": {"pos": "동사", "ko": "거부하다, ~하려 들지 않다"},
-  "seems": {"pos": "동사", "ko": "~처럼 보이다"},
-  "push": {"pos": "동사", "ko": "밀다"},
-  "open": {"pos": "동사", "ko": "열다"},
-  "begin": {"pos": "동사", "ko": "시작하다"},
-  "asking": {"pos": "동사", "ko": "묻기 (ask의 -ing형)"},
-  "twice": {"pos": "부사", "ko": "두 번"},
-  "respects": {"pos": "동사", "ko": "존중하다"},
-  "offers": {"pos": "동사", "ko": "내밀다, 권하다"},
-  "thinking": {"pos": "동사", "ko": "생각하기 (think의 -ing형)"},
-  "beginners": {"pos": "명사", "ko": "초보자 (beginner의 복수형)"},
-  "rush": {"pos": "동사", "ko": "서두르다, 급히 가다"},
-  "reach": {"pos": "동사", "ko": "도달하다, 이르다"},
-  "ones": {"pos": "대명사", "ko": "~한 사람들 (the good ones: 잘하는 사람들)"},
-  "sadly": {"pos": "부사", "ko": "아쉽게도, 슬프게도"},
-  "cannot": {"pos": "조동사", "ko": "~할 수 없다 (can not)"},
-  "found": {"pos": "동사", "ko": "찾다 (find의 과거형)"},
-  "our": {"pos": "한정사", "ko": "우리의"}
+  "friday": {
+   "pos": "명사",
+   "ko": "금요일"
+  },
+  "evening": {
+   "pos": "명사",
+   "ko": "저녁"
+  },
+  "community": {
+   "pos": "명사",
+   "ko": "지역 사회, 공동체 (community center: 문화센터)"
+  },
+  "center": {
+   "pos": "명사",
+   "ko": "센터, 회관"
+  },
+  "tango": {
+   "pos": "명사",
+   "ko": "탱고"
+  },
+  "class": {
+   "pos": "명사",
+   "ko": "수업, 강습"
+  },
+  "teacher": {
+   "pos": "명사",
+   "ko": "선생님, 강사"
+  },
+  "carlos": {
+   "pos": "고유명사",
+   "ko": "카를로스 (탱고 강사 이름)"
+  },
+  "middle": {
+   "pos": "명사",
+   "ko": "한가운데"
+  },
+  "welcome": {
+   "pos": "감탄사",
+   "ko": "환영해요, 어서 오세요"
+  },
+  "conversation": {
+   "pos": "명사",
+   "ko": "대화"
+  },
+  "between": {
+   "pos": "전치사",
+   "ko": "~ 사이의"
+  },
+  "bodies": {
+   "pos": "명사",
+   "ko": "몸 (body의 복수형)"
+  },
+  "tonight": {
+   "pos": "부사",
+   "ko": "오늘 밤"
+  },
+  "listen": {
+   "pos": "동사",
+   "ko": "귀 기울이다"
+  },
+  "takes": {
+   "pos": "동사",
+   "ko": "(손을) 잡다"
+  },
+  "polite": {
+   "pos": "형용사",
+   "ko": "예의 바른, 점잖은"
+  },
+  "distance": {
+   "pos": "명사",
+   "ko": "거리, 간격"
+  },
+  "feel": {
+   "pos": "동사",
+   "ko": "느끼다"
+  },
+  "feels": {
+   "pos": "동사",
+   "ko": "~하게 느껴지다"
+  },
+  "partner": {
+   "pos": "명사",
+   "ko": "파트너, 짝"
+  },
+  "breathe": {
+   "pos": "동사",
+   "ko": "숨 쉬다"
+  },
+  "ready": {
+   "pos": "형용사",
+   "ko": "준비된"
+  },
+  "nervous": {
+   "pos": "형용사",
+   "ko": "긴장한"
+  },
+  "admit": {
+   "pos": "동사",
+   "ko": "인정하다, 솔직히 말하다"
+  },
+  "dances": {
+   "pos": "동사",
+   "ko": "춤추다"
+  },
+  "beats": {
+   "pos": "동사",
+   "ko": "(심장이) 뛰다"
+  },
+  "beating": {
+   "pos": "동사",
+   "ko": "뛰고 있는 (beat의 -ing형)"
+  },
+  "fast": {
+   "pos": "부사",
+   "ko": "빠르게"
+  },
+  "places": {
+   "pos": "동사",
+   "ko": "(가만히) 놓다"
+  },
+  "belongs": {
+   "pos": "동사",
+   "ko": "제자리가 ~이다, 속하다"
+  },
+  "settling": {
+   "pos": "동사",
+   "ko": "가만히 얹는 (settle의 -ing형)"
+  },
+  "waist": {
+   "pos": "명사",
+   "ko": "허리"
+  },
+  "firm": {
+   "pos": "형용사",
+   "ko": "단단한, 흔들림 없는"
+  },
+  "must": {
+   "pos": "조동사",
+   "ko": "~해야 하다"
+  },
+  "trust": {
+   "pos": "동사",
+   "ko": "믿다, 맡기다"
+  },
+  "lead": {
+   "pos": "동사",
+   "ko": "이끌다, 리드하다 (명사: 리드)"
+  },
+  "follow": {
+   "pos": "동사",
+   "ko": "따라가다"
+  },
+  "do": {
+   "pos": "조동사",
+   "ko": "(부정문·의문문을 만드는) do"
+  },
+  "let": {
+   "pos": "동사",
+   "ko": "~하게 두다"
+  },
+  "yours": {
+   "pos": "대명사",
+   "ko": "너의 것, 너의 몸"
+  },
+  "answer": {
+   "pos": "동사",
+   "ko": "답하다, 응답하다"
+  },
+  "steps": {
+   "pos": "명사",
+   "ko": "스텝, 발걸음"
+  },
+  "saying": {
+   "pos": "동사",
+   "ko": "말하는 (say의 -ing형)"
+  },
+  "know": {
+   "pos": "동사",
+   "ko": "알다"
+  },
+  "where": {
+   "pos": "부사",
+   "ko": "어디로, 어디에"
+  },
+  "want": {
+   "pos": "동사",
+   "ko": "원하다"
+  },
+  "supposed": {
+   "pos": "형용사",
+   "ko": "~하기로 되어 있는 (be supposed to)"
+  },
+  "tell": {
+   "pos": "동사",
+   "ko": "말해 주다, 알려 주다"
+  },
+  "words": {
+   "pos": "명사",
+   "ko": "말 (word의 복수형)"
+  },
+  "needed": {
+   "pos": "동사",
+   "ko": "필요하다 (need의 과거분사)"
+  },
+  "rarely": {
+   "pos": "부사",
+   "ko": "좀처럼 ~ 않다"
+  },
+  "make": {
+   "pos": "동사",
+   "ko": "(실수를) 하다, 만들다"
+  },
+  "makes": {
+   "pos": "동사",
+   "ko": "만들다"
+  },
+  "mistake": {
+   "pos": "명사",
+   "ko": "실수"
+  },
+  "mistakes": {
+   "pos": "명사",
+   "ko": "실수 (복수형)"
+  },
+  "only": {
+   "pos": "부사",
+   "ko": "오직, ~만"
+  },
+  "move": {
+   "pos": "명사",
+   "ko": "동작 (동사로는 '움직이다')"
+  },
+  "moves": {
+   "pos": "명사",
+   "ko": "동작들"
+  },
+  "we": {
+   "pos": "대명사",
+   "ko": "우리"
+  },
+  "did": {
+   "pos": "동사",
+   "ko": "do의 과거형"
+  },
+  "plan": {
+   "pos": "동사",
+   "ko": "계획하다"
+  },
+  "planned": {
+   "pos": "동사",
+   "ko": "계획하다 (plan의 과거분사)"
+  },
+  "happens": {
+   "pos": "동사",
+   "ko": "일어나다, 생기다"
+  },
+  "nobody": {
+   "pos": "대명사",
+   "ko": "아무도 ~ 않다"
+  },
+  "across": {
+   "pos": "전치사",
+   "ko": "~을 가로질러"
+  },
+  "floor": {
+   "pos": "명사",
+   "ko": "바닥, 플로어"
+  },
+  "pause": {
+   "pos": "명사",
+   "ko": "멈춤, 정지"
+  },
+  "slowly": {
+   "pos": "부사",
+   "ko": "천천히"
+  },
+  "find": {
+   "pos": "동사",
+   "ko": "찾다, 찾아내다"
+  },
+  "single": {
+   "pos": "형용사",
+   "ko": "단 하나의"
+  },
+  "rhythm": {
+   "pos": "명사",
+   "ko": "리듬, 박자"
+  },
+  "hook": {
+   "pos": "동사",
+   "ko": "걸다, 감다"
+  },
+  "leg": {
+   "pos": "명사",
+   "ko": "다리"
+  },
+  "legs": {
+   "pos": "명사",
+   "ko": "다리 (복수형)"
+  },
+  "mine": {
+   "pos": "대명사",
+   "ko": "내 것, 내 다리"
+  },
+  "yes": {
+   "pos": "감탄사",
+   "ko": "네, 그래요"
+  },
+  "tangle": {
+   "pos": "동사",
+   "ko": "엉키다"
+  },
+  "untangle": {
+   "pos": "동사",
+   "ko": "(엉킨 것을) 풀다"
+  },
+  "out": {
+   "pos": "부사",
+   "ko": "밖으로, 빠져나와"
+  },
+  "music": {
+   "pos": "명사",
+   "ko": "음악"
+  },
+  "slows": {
+   "pos": "동사",
+   "ko": "느려지다"
+  },
+  "notice": {
+   "pos": "동사",
+   "ko": "알아차리다"
+  },
+  "face": {
+   "pos": "명사",
+   "ko": "얼굴"
+  },
+  "burning": {
+   "pos": "형용사",
+   "ko": "화끈거리는, 달아오른"
+  },
+  "dancer": {
+   "pos": "명사",
+   "ko": "춤추는 사람"
+  },
+  "heat": {
+   "pos": "명사",
+   "ko": "열기"
+  },
+  "part": {
+   "pos": "명사",
+   "ko": "부분, 일부"
+  },
+  "dance": {
+   "pos": "명사",
+   "ko": "춤"
+  },
+  "try": {
+   "pos": "동사",
+   "ko": "해 보다, 시도하다"
+  },
+  "ending": {
+   "pos": "명사",
+   "ko": "마무리 동작, 결말"
+  },
+  "ah": {
+   "pos": "감탄사",
+   "ko": "아"
+  },
+  "dip": {
+   "pos": "명사",
+   "ko": "딥 (상대를 뒤로 깊게 눕히는 동작)"
+  },
+  "dips": {
+   "pos": "동사",
+   "ko": "(몸을) 뒤로 깊게 기울이다"
+  },
+  "favorite": {
+   "pos": "형용사",
+   "ko": "가장 좋아하는"
+  },
+  "honestly": {
+   "pos": "부사",
+   "ko": "솔직히"
+  },
+  "song": {
+   "pos": "명사",
+   "ko": "노래, 곡"
+  },
+  "end": {
+   "pos": "동사",
+   "ko": "끝나다"
+  },
+  "does": {
+   "pos": "동사",
+   "ko": "do의 3인칭 단수형"
+  },
+  "their": {
+   "pos": "한정사",
+   "ko": "그들의, 각자의"
+  },
+  "effect": {
+   "pos": "명사",
+   "ko": "효과, 영향"
+  },
+  "last": {
+   "pos": "형용사",
+   "ko": "마지막의"
+  },
+  "final": {
+   "pos": "형용사",
+   "ko": "마지막의, 최종의"
+  },
+  "low": {
+   "pos": "부사",
+   "ko": "낮게"
+  },
+  "longer": {
+   "pos": "부사",
+   "ko": "더 오래 (no longer: 더 이상 ~ 않다)"
+  },
+  "asks": {
+   "pos": "동사",
+   "ko": "요구하다, 청하다"
+  },
+  "weight": {
+   "pos": "명사",
+   "ko": "몸무게, 무게"
+  },
+  "stay": {
+   "pos": "동사",
+   "ko": "머무르다, 그대로 있다"
+  },
+  "sweetest": {
+   "pos": "형용사",
+   "ko": "가장 달콤한 (sweet의 최상급)"
+  },
+  "busy": {
+   "pos": "형용사",
+   "ko": "(마음이) 분주한, 바쁜"
+  },
+  "week": {
+   "pos": "명사",
+   "ko": "주, 일주일"
+  },
+  "far": {
+   "pos": "부사",
+   "ko": "멀리"
+  },
+  "refuses": {
+   "pos": "동사",
+   "ko": "거부하다, ~하려 들지 않다"
+  },
+  "seems": {
+   "pos": "동사",
+   "ko": "~처럼 보이다"
+  },
+  "push": {
+   "pos": "동사",
+   "ko": "밀다"
+  },
+  "open": {
+   "pos": "동사",
+   "ko": "열다"
+  },
+  "begin": {
+   "pos": "동사",
+   "ko": "시작하다"
+  },
+  "asking": {
+   "pos": "동사",
+   "ko": "묻기 (ask의 -ing형)"
+  },
+  "twice": {
+   "pos": "부사",
+   "ko": "두 번"
+  },
+  "respects": {
+   "pos": "동사",
+   "ko": "존중하다"
+  },
+  "offers": {
+   "pos": "동사",
+   "ko": "내밀다, 권하다"
+  },
+  "thinking": {
+   "pos": "동사",
+   "ko": "생각하기 (think의 -ing형)"
+  },
+  "beginners": {
+   "pos": "명사",
+   "ko": "초보자 (beginner의 복수형)"
+  },
+  "rush": {
+   "pos": "동사",
+   "ko": "서두르다, 급히 가다"
+  },
+  "reach": {
+   "pos": "동사",
+   "ko": "도달하다, 이르다"
+  },
+  "ones": {
+   "pos": "대명사",
+   "ko": "~한 사람들 (the good ones: 잘하는 사람들)"
+  },
+  "sadly": {
+   "pos": "부사",
+   "ko": "아쉽게도, 슬프게도"
+  },
+  "cannot": {
+   "pos": "조동사",
+   "ko": "~할 수 없다 (can not)"
+  },
+  "found": {
+   "pos": "동사",
+   "ko": "찾다 (find의 과거형)"
+  },
+  "our": {
+   "pos": "한정사",
+   "ko": "우리의"
+  }
  },
  "wink": {
   "hold": "탱고 기본 자세의 정식 명칭이에요. 수업 밖에서 이 단어는 그냥 '안는 것'이라, 어느 쪽 수업이었는지는 억양이 결정하죠.",
