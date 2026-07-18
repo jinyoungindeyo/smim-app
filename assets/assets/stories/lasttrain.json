@@ -47,7 +47,7 @@
    },
    {
     "type": "text",
-    "text": "He smiles. \"I took this train every night for forty years,\" he says."
+    "text": "He smiles. \"I took this train every night for forty years,\" he says. \"I still take it sometimes. You look very tired.\""
    },
    {
     "type": "choice",
@@ -55,7 +55,7 @@
     "options": [
      {
       "en": "Yes, today was very long.",
-      "ko": "네, 오늘 정말 길었어요",
+      "ko": "네, 오늘 정말 길었어요.",
       "reaction": "He nods slowly. \"I know that feeling well,\" he says."
      },
      {
@@ -67,17 +67,15 @@
    },
    {
     "type": "text",
-    "text": "You talk about work and life. His words are warm and slow.",
-    "art": "bus_talk"
+    "text": "You talk about work and life. His words are warm and slow."
    },
    {
     "type": "text",
-    "text": "\"When I was young, I only worked,\" he says. \"Now I remember the small things, not the long nights.\"",
-    "art": "village"
+    "text": "\"When I was young, I only worked,\" he says. \"Now I remember the small things, not the long nights.\""
    },
    {
     "type": "text",
-    "text": "The train stops. It is your station. The old man smiles at you."
+    "text": "You think about his words. Then the train stops. It is your station. The old man smiles at you."
    },
    {
     "type": "choice",
@@ -90,14 +88,15 @@
      },
      {
       "en": "I hope we meet again.",
-      "ko": "또 만나면 좋겠어요",
+      "ko": "또 만나면 좋겠어요.",
       "reaction": "\"Same train, same time,\" he laughs. The doors open."
      }
     ]
    },
    {
     "type": "text",
-    "text": "You walk home under the night sky. The city is quiet. His words stay with you, like a small light in the dark."
+    "text": "You walk home under the night sky. The city is quiet. His words stay with you, like a small light in the dark.",
+    "art": "night"
    }
   ],
   "normal": [
@@ -117,12 +116,12 @@
      {
       "en": "Close your eyes and rest.",
       "ko": "눈을 감고 잠시 쉰다",
-      "reaction": "You close your eyes. The train moves softly under you, and your tired body feels heavy."
+      "reaction": "You close your eyes and let the day go. The train moves softly under you, and slowly your tired body begins to feel heavy and warm."
      },
      {
       "en": "Look out the dark window.",
       "ko": "어두운 창밖을 바라본다",
-      "reaction": "The city lights pass by outside. The night looks quiet and far away."
+      "reaction": "The city lights pass by outside the window, one after another. From the warm train, the night looks quiet and far away."
      }
     ]
    },
@@ -132,7 +131,7 @@
    },
    {
     "type": "text",
-    "text": "\"I took this train every night for forty years,\" he says. \"I know that tired look.\""
+    "text": "\"I took this train every night for forty years,\" he says. \"Even now, I still ride it from time to time. And I know that tired look.\""
    },
    {
     "type": "choice",
@@ -140,29 +139,27 @@
     "options": [
      {
       "en": "Yes, today was really long.",
-      "ko": "네, 오늘은 정말 길었어요",
-      "reaction": "He nods slowly. \"I know that feeling very well,\" he says."
+      "ko": "네, 오늘은 정말 길었어요.",
+      "reaction": "He nods slowly. \"I had many days like that,\" he says. \"More than I can count.\""
      },
      {
       "en": "How did you know?",
       "ko": "어떻게 아셨어요?",
-      "reaction": "\"Your eyes,\" he laughs. \"My eyes looked just like that, once.\""
+      "reaction": "\"Your eyes,\" he laughs. \"A long time ago, my eyes looked just like that after work.\""
      }
     ]
    },
    {
     "type": "text",
-    "text": "You talk about work and life. He listens carefully, and his slow, warm words make the late train feel less cold.",
-    "art": "bus_talk"
+    "text": "You talk about work and life. He listens carefully, and his slow, warm words make the late train feel less cold."
    },
    {
     "type": "text",
-    "text": "\"When I was young, I only worked,\" he says. \"Now I remember the small warm things, not the long nights at the office.\"",
-    "art": "village"
+    "text": "\"When I was young, I only thought about work,\" he says. \"But when I look back now, I remember the small warm things, not the long nights at the office.\""
    },
    {
     "type": "text",
-    "text": "The train slows down and stops at your station. The old man looks up at you and smiles."
+    "text": "You are still thinking about his words when the train slows down and stops at your station. The old man looks up at you and smiles."
    },
    {
     "type": "choice",
@@ -171,18 +168,19 @@
      {
       "en": "Thank you. Get home safe!",
       "ko": "감사해요. 조심히 들어가세요!",
-      "reaction": "\"You too,\" he says. \"And eat a warm dinner tonight.\""
+      "reaction": "\"You too,\" he says. \"And don't go to bed hungry — eat something warm tonight.\""
      },
      {
       "en": "I hope we meet again.",
-      "ko": "또 만나면 좋겠어요",
-      "reaction": "\"Same train, same time,\" he laughs as the doors open."
+      "ko": "또 만나면 좋겠어요.",
+      "reaction": "\"Same train, same time,\" he laughs. \"That is how old friends are made.\" The doors open behind you."
      }
     ]
    },
    {
     "type": "text",
-    "text": "You walk home under the quiet night sky. The city sleeps, but his words stay with you, small and warm, like a light in the dark."
+    "text": "You walk home under the quiet night sky. The city sleeps, but his words stay with you, small and warm, like a light in the dark.",
+    "art": "night"
    }
   ],
   "hard": [
@@ -217,7 +215,7 @@
    },
    {
     "type": "text",
-    "text": "\"I took this train every night for forty years,\" he says. \"I know that tired look better than anyone.\""
+    "text": "\"I took this train every night for forty years,\" he says. \"Even now that my working days are over, I still find myself riding it now and then. And I know that tired look better than anyone.\""
    },
    {
     "type": "choice",
@@ -225,7 +223,7 @@
     "options": [
      {
       "en": "Yes, today was really long.",
-      "ko": "네, 오늘은 정말 길었어요",
+      "ko": "네, 오늘은 정말 길었어요.",
       "reaction": "He nods slowly, as if he can see the whole day on your face. \"I know that feeling very well,\" he says."
      },
      {
@@ -237,17 +235,15 @@
    },
    {
     "type": "text",
-    "text": "The two of you talk about work and life while the dark city rolls past the windows. He listens carefully, and his slow, warm words make the late train feel less empty.",
-    "art": "bus_talk"
+    "text": "The two of you talk about work and life while the dark city rolls past the windows. He listens carefully, and his slow, warm words make the late train feel less empty."
    },
    {
     "type": "text",
-    "text": "\"When I was young, I did nothing but work,\" he says. \"These days I remember the small warm moments, not the long nights I spent at the office.\"",
-    "art": "village"
+    "text": "\"When I was young, I did nothing but work,\" he says. \"These days I remember the small warm moments, not the long nights I spent at the office.\""
    },
    {
     "type": "text",
-    "text": "The train slows down and stops at your station. The old man looks up at you with a gentle smile."
+    "text": "You are still turning his words over in your mind when the train slows and stops at your station. The old man looks up at you with a gentle smile."
    },
    {
     "type": "choice",
@@ -260,18 +256,20 @@
      },
      {
       "en": "I hope we meet again.",
-      "ko": "또 만나면 좋겠어요",
+      "ko": "또 만나면 좋겠어요.",
       "reaction": "\"Same train, same time,\" he laughs as the doors open in front of you."
      }
     ]
    },
    {
     "type": "text",
-    "text": "You walk home under the quiet night sky, through streets that are finally still. The city sleeps around you, but his words stay close, small and warm, like a single light left on in the dark."
+    "text": "You walk home under the quiet night sky, through streets that are finally still. The city sleeps around you, but his words stay close, small and warm, like a single light left on in the dark.",
+    "art": "night"
    }
   ]
  },
  "dict": {
+  "after": {"pos": "전치사", "ko": "~ 후에"},
   "again": {"pos": "부사", "ko": "다시, 또"},
   "ago": {"pos": "부사", "ko": "~ 전에"},
   "almost": {"pos": "부사", "ko": "거의"},
@@ -281,14 +279,17 @@
   "asks": {"pos": "동사", "ko": "묻다 (ask)"},
   "beating": {"pos": "동사", "ko": "(심장이) 뛰고 있는 (beat)"},
   "beats": {"pos": "동사", "ko": "(심장이) 뛰다 (beat)"},
+  "begins": {"pos": "동사", "ko": "~하기 시작하다 (begin)"},
   "car": {"pos": "명사", "ko": "(기차의) 객차, 칸"},
   "catch": {"pos": "동사", "ko": "(차·기차를) 잡아타다"},
   "city": {"pos": "명사", "ko": "도시"},
+  "count": {"pos": "동사", "ko": "세다, 헤아리다 (more than I can count: 셀 수 없이 많이)"},
   "dark": {"pos": "형용사", "ko": "어두운"},
   "did": {"pos": "조동사", "ko": "do의 과거 (질문·과거를 나타냄)"},
   "dinner": {"pos": "명사", "ko": "저녁 식사"},
   "eat": {"pos": "동사", "ko": "먹다"},
   "empty": {"pos": "형용사", "ko": "텅 빈"},
+  "even": {"pos": "부사", "ko": "심지어, ~조차 (even now: 지금도)"},
   "exactly": {"pos": "부사", "ko": "정확히, 꼭"},
   "eyes": {"pos": "명사", "ko": "눈 (eye의 복수)"},
   "face": {"pos": "명사", "ko": "얼굴"},
@@ -297,28 +298,36 @@
   "feel": {"pos": "동사", "ko": "느껴지다"},
   "feeling": {"pos": "명사", "ko": "기분, 느낌"},
   "feels": {"pos": "동사", "ko": "느껴지다 (feel)"},
+  "find": {"pos": "동사", "ko": "발견하다 (find myself -ing: 어느새 ~하고 있다)"},
   "finish": {"pos": "동사", "ko": "끝내다"},
   "forty": {"pos": "수사", "ko": "40, 마흔"},
+  "friends": {"pos": "명사", "ko": "친구들 (friend의 복수)"},
   "front": {"pos": "명사", "ko": "앞 (in front of: ~ 앞에서)"},
   "gently": {"pos": "부사", "ko": "부드럽게"},
   "get": {"pos": "동사", "ko": "(집에) 가다, 도착하다 (get home: 집에 가다)"},
+  "had": {"pos": "동사", "ko": "가졌다, 겪었다 (have의 과거)"},
   "hope": {"pos": "동사", "ko": "바라다"},
   "know": {"pos": "동사", "ko": "알다"},
   "last": {"pos": "형용사", "ko": "마지막의 (last train: 막차)"},
   "late": {"pos": "형용사", "ko": "늦은"},
   "left": {"pos": "동사", "ko": "켜 둔 (leave의 과거분사, left on: 켜 놓은)"},
   "less": {"pos": "부사", "ko": "덜"},
+  "let": {"pos": "동사", "ko": "~하게 두다 (let the day go: 하루를 흘려보내다)"},
   "life": {"pos": "명사", "ko": "삶, 인생"},
   "light": {"pos": "명사", "ko": "불빛"},
   "lights": {"pos": "명사", "ko": "불빛들 (light의 복수)"},
   "listens": {"pos": "동사", "ko": "귀 기울여 듣다 (listen)"},
   "looked": {"pos": "동사", "ko": "~해 보였다 (look의 과거)"},
+  "made": {"pos": "동사", "ko": "만들어진 (make의 과거분사, are made: 만들어지다)"},
   "make": {"pos": "동사", "ko": "~하게 만들다"},
+  "many": {"pos": "한정사", "ko": "많은"},
   "meet": {"pos": "동사", "ko": "만나다"},
   "midnight": {"pos": "명사", "ko": "자정, 밤 12시"},
+  "mind": {"pos": "명사", "ko": "마음, 머릿속"},
   "mine": {"pos": "대명사", "ko": "내 것 (여기서는 '내 눈')"},
   "moments": {"pos": "명사", "ko": "순간들 (moment의 복수)"},
   "moves": {"pos": "동사", "ko": "움직이다 (move)"},
+  "myself": {"pos": "대명사", "ko": "나 자신 (find myself: 어느새 ~하게 되다)"},
   "nights": {"pos": "명사", "ko": "밤들 (night의 복수)"},
   "nods": {"pos": "동사", "ko": "고개를 끄덕이다 (nod)"},
   "office": {"pos": "명사", "ko": "사무실"},
@@ -331,6 +340,7 @@
   "quiet": {"pos": "형용사", "ko": "조용한"},
   "quietly": {"pos": "부사", "ko": "조용히"},
   "rest": {"pos": "동사", "ko": "쉬다"},
+  "ride": {"pos": "동사", "ko": "(기차 등을) 타다"},
   "rolls": {"pos": "동사", "ko": "(풍경이) 흘러가다 (roll)"},
   "safe": {"pos": "형용사", "ko": "무사히, 안전하게 (get home safe: 조심히 들어가다)"},
   "same": {"pos": "형용사", "ko": "같은"},
@@ -344,6 +354,8 @@
   "sleeps": {"pos": "동사", "ko": "잠들다 (sleep)"},
   "slows": {"pos": "동사", "ko": "느려지다 (slow down: 속도를 늦추다)"},
   "slowly": {"pos": "부사", "ko": "천천히"},
+  "something": {"pos": "대명사", "ko": "무언가, 어떤 것"},
+  "sometimes": {"pos": "부사", "ko": "가끔, 때때로"},
   "spent": {"pos": "동사", "ko": "(시간을) 보냈다 (spend의 과거)"},
   "station": {"pos": "명사", "ko": "역"},
   "stay": {"pos": "동사", "ko": "남다, 머무르다"},
@@ -351,9 +363,12 @@
   "streets": {"pos": "명사", "ko": "거리들 (street의 복수)"},
   "these": {"pos": "한정사", "ko": "이, 요즘의 (these days: 요즘)"},
   "things": {"pos": "명사", "ko": "것들 (thing의 복수)"},
+  "thinking": {"pos": "동사", "ko": "생각하고 있는 (think의 -ing형)"},
+  "thought": {"pos": "동사", "ko": "생각했다 (think의 과거)"},
   "tonight": {"pos": "부사", "ko": "오늘 밤"},
   "took": {"pos": "동사", "ko": "탔다 (take의 과거, take a train: 기차를 타다)"},
   "train": {"pos": "명사", "ko": "기차, 열차"},
+  "turning": {"pos": "동사", "ko": "곱씹고 있는 (turn over in one's mind: 마음속으로 곱씹다)"},
   "warmly": {"pos": "부사", "ko": "따뜻하게"},
   "was": {"pos": "동사", "ko": "~였다 (is의 과거)"},
   "we": {"pos": "대명사", "ko": "우리"},
@@ -363,6 +378,7 @@
   "windows": {"pos": "명사", "ko": "창문들 (window의 복수)"},
   "work": {"pos": "명사", "ko": "일, 직장"},
   "worked": {"pos": "동사", "ko": "일했다 (work의 과거)"},
+  "working": {"pos": "형용사", "ko": "일하는 (working days: 일하던 시절)"},
   "words": {"pos": "명사", "ko": "말, 말들 (word의 복수)"},
   "years": {"pos": "명사", "ko": "해, 년 (year의 복수)"},
   "yes": {"pos": "감탄사", "ko": "네, 응"},

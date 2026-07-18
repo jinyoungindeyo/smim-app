@@ -2,7 +2,7 @@
  "id": "greenhouse",
  "title": "The Summer Greenhouse",
  "badge": "A2+ · 표현 주의",
- "introKo": "Rose 부인이 여름 맞이로 유리 온실을 지었어요. 안은 뜨겁고 촉촉하대요.\n이번에도 표면적으로는 아주 건전한 원예 이야기예요. …표면적으로는요.",
+ "introKo": "Rose 부인이 여름맞이로 유리 온실을 지었어요. 안은 한여름보다 더 덥다네요.\n이번에도 아주 건전한 원예 이야기예요. …표면적으로는요.",
  "adult": true,
  "minLevel": 5,
  "quiz": {
@@ -23,7 +23,7 @@
    },
    {
     "type": "text",
-    "text": "She calls you over the fence. \"Come and see!\" she says. \"I built a greenhouse, just for the summer.\"",
+    "text": "She calls you over the fence, past her famous eggplants. \"Come and see!\" she says. \"I built a greenhouse, just for the summer.\"",
     "art": "fence_eggplant"
    },
    {
@@ -92,13 +92,13 @@
     "options": [
      {
       "en": "They are so big already.",
-      "ko": "벌써 이렇게 크다니요.",
+      "ko": "벌써 이렇게 컸네요.",
       "reaction": "\"The heat does that,\" she says softly. \"Everything ripens faster in here.\""
      },
      {
       "en": "When will they be ripe?",
       "ko": "언제쯤 다 익어요?",
-      "reaction": "\"Soon. Very soon. And when they are ready, you will be the first to know.\""
+      "reaction": "\"Patience, dear,\" she says. \"The sweetest ones are always worth the wait.\""
      }
     ]
    },
@@ -121,7 +121,7 @@
    },
    {
     "type": "text",
-    "text": "She waves you over the fence with a proud smile. \"Come and see what I built,\" she says. \"A greenhouse, all glass, just for the summer.\"",
+    "text": "She waves you over the fence with a proud smile, past her famous eggplants. \"Come and see what I built,\" she says. \"A greenhouse, all glass, just for the summer.\"",
     "art": "fence_eggplant"
    },
    {
@@ -165,7 +165,7 @@
      },
      {
       "en": "Should I tie them up tight?",
-      "ko": "꽉 묶어 올려야 하나요?",
+      "ko": "꽉 묶어야 하나요?",
       "reaction": "\"Gently, dear. Tight enough to hold them, loose enough to let them breathe. That is the trick with everything.\""
      }
     ]
@@ -190,13 +190,13 @@
     "options": [
      {
       "en": "They are so big already.",
-      "ko": "벌써 이렇게 크다니요.",
+      "ko": "벌써 이렇게 컸네요.",
       "reaction": "\"The heat does that,\" she says softly. \"Everything ripens so much faster in here.\""
      },
      {
       "en": "When exactly will they be ripe?",
       "ko": "정확히 언제쯤 다 익어요?",
-      "reaction": "\"Soon. Very soon. And when they are finally ready, you will be the very first to know.\""
+      "reaction": "\"Patience, dear,\" she says. \"The sweetest ones are always the ones worth waiting for.\""
      }
     ]
    },
@@ -219,6 +219,8 @@
   "news": {"pos": "명사", "ko": "소식"},
   "built": {"pos": "동사", "ko": "지었다 — build의 과거"},
   "greenhouse": {"pos": "명사", "ko": "온실"},
+  "past": {"pos": "전치사", "ko": "~을 지나서"},
+  "famous": {"pos": "형용사", "ko": "유명한, 자랑거리인"},
   "inside": {"pos": "부사", "ko": "안에서, 안은"},
   "air": {"pos": "명사", "ko": "공기"},
   "get": {"pos": "동사", "ko": "~해지다, 얻다"},
@@ -279,6 +281,10 @@
   "already": {"pos": "부사", "ko": "벌써, 이미"},
   "ripens": {"pos": "동사", "ko": "익다, 무르익다 — ripen의 3인칭"},
   "know": {"pos": "동사", "ko": "알다"},
+  "patience": {"pos": "명사", "ko": "인내심, 참을성"},
+  "sweetest": {"pos": "형용사", "ko": "가장 달콤한 — sweet의 최상급"},
+  "ones": {"pos": "대명사", "ko": "것들 — one(것)의 복수"},
+  "worth": {"pos": "형용사", "ko": "~할 가치가 있는"},
   "out": {"pos": "부사", "ko": "밖으로"},
   "cool": {"pos": "형용사", "ko": "시원한"},
   "evening": {"pos": "명사", "ko": "저녁"},
@@ -329,13 +335,14 @@
  },
  "wink": {
   "greenhouse": "온실은 문을 닫는 순간 뜨겁고 습해지는 유리 공간이에요. 이 이야기 내내 두 사람이 그 안에 함께 있다는 점이 포인트예요.",
-  "hot": "덥다는 뜻이 맞긴 한데, 영어에서 hot은 사람이나 분위기가 '뜨겁다'는 의미로 훨씬 자주 쓰여요. \"I like the heat\"도 두 가지로 들릴 수 있어요.",
+  "hot": "덥다는 뜻이 맞긴 한데, 영어에서 hot은 사람이나 분위기가 '뜨겁다'는 의미로도 아주 자주 쓰여요. \"I like the heat\"도 두 가지로 들릴 수 있어요.",
+  "push": "\"Push each one in slowly\"는 씨앗 심기 요령으로는 완벽한 지침이에요. 문장만 따로 떼어 소리 내어 읽지 않는 게 좋을 뿐이죠.",
   "firm": "지지대가 단단해야 하는 건 원예 상식이지만, \"Is this firm enough for you?\"를 진지한 얼굴로 말하기는 쉽지 않은 문장이에요.",
   "thirsty": "목마른 게 식물만은 아니에요. 요즘 영어에서 thirsty는 뭔가를 간절히 바라는 사람을 놀릴 때도 쓰는 단어예요.",
   "steam": "유리에 김이 서리는 건 과학 현상이지만, 영어에서는 분위기가 달아오른 장면을 '김이 서렸다'고 표현하기도 해요.",
   "drip": "잎에서 물이 떨어질 때까지 주라는 성실한 지침인데, 소리 내어 읽으면 어쩐지 목소리가 낮아지는 문장이에요.",
   "ripens": "\"Everything ripens faster in here\" — 이 온실에서 빨리 무르익는 게 과일만은 아닐지도 몰라요.",
-  "feel": "잘 자랐는지 만져 보라는 평범한 권유예요. 대상이 하필 멜론이라는 게 문제일 뿐이죠. 1화를 읽었다면 이유를 아실 거예요.",
+  "feel": "잘 자랐는지 만져 보라는 평범한 권유예요. 대상이 하필 멜론이라는 게 문제일 뿐이죠. Mrs. Rose의 정원 이야기를 읽었다면 이유를 아실 거예요.",
   "damp": "저녁에 셔츠가 축축해진 건 순전히 온실 노동 때문이에요. 아마도요."
  }
 }

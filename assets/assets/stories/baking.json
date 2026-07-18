@@ -22,7 +22,7 @@
    },
    {
     "type": "text",
-    "text": "The teacher, Miss Honey, gives you a big smile. \"A new student,\" she says. \"Fresh hands. I love fresh hands.\""
+    "text": "The teacher, Miss Sugar, gives you a big smile. \"A new student,\" she says. \"Fresh hands. I love fresh hands.\""
    },
    {
     "type": "text",
@@ -46,11 +46,11 @@
    },
    {
     "type": "text",
-    "text": "Miss Honey puts soft dough in front of you. \"Now knead it,\" she says. \"Push with both hands. Don't be shy — this dough likes a firm touch.\""
+    "text": "Miss Sugar puts soft dough in front of you. \"Now knead it,\" she says. \"Push with both hands. Don't be shy — this dough likes a firm touch.\""
    },
    {
     "type": "text",
-    "text": "You push and fold, push and fold. \"Slower,\" she says, close behind you. \"Find a rhythm. Feel how it changes under your hands.\""
+    "text": "You push and fold, push and fold. \"Slower,\" she says. \"Find a rhythm. Feel how it changes under your hands.\""
    },
    {
     "type": "choice",
@@ -74,11 +74,11 @@
    },
    {
     "type": "text",
-    "text": "The oven is on, and the room grows hot. Miss Honey fans her face. \"This heat,\" she says. \"You never get used to it. But without heat, nothing happens.\""
+    "text": "The oven is on, and the room grows hot. Miss Sugar fans her face. \"This heat,\" she says. \"You never get used to it. But without heat, nothing happens.\""
    },
    {
     "type": "text",
-    "text": "You shape the dough into small round buns. \"Oh my,\" Miss Honey says softly. \"Lovely buns. Some of the best I have seen in this class.\""
+    "text": "You shape the dough into small round buns. \"Oh my,\" Miss Sugar says softly. \"Lovely buns. Some of the best I have seen in this class.\""
    },
    {
     "type": "choice",
@@ -91,18 +91,18 @@
      },
      {
       "en": "Baking is more fun than I expected.",
-      "ko": "베이킹이 생각보다 훨씬 재미있네요.",
-      "reaction": "\"It always is,\" she says. \"The first time is fun. After that, it only gets better.\""
+      "ko": "베이킹이 생각보다 재미있네요.",
+      "reaction": "\"It always is,\" she says. \"Careful — once you start, it is very hard to stop.\""
      }
     ]
    },
    {
     "type": "text",
-    "text": "The buns come out of the oven, golden and warm. Miss Honey hands you a bag of cream. \"Now the filling. Squeeze slowly, with steady pressure. If you hurry, it goes everywhere.\""
+    "text": "The buns come out of the oven, golden and warm. Miss Sugar hands you a bag of cream. \"Now the filling. Squeeze slowly, with steady pressure. If you hurry, it goes everywhere.\""
    },
    {
     "type": "text",
-    "text": "You walk home with a box of warm cream buns. There is flour on your shirt and a smile on your face. \"Same time next week?\" Miss Honey calls. You have already signed up."
+    "text": "You walk home with a box of warm cream buns. There is flour on your shirt and a smile on your face. \"Same time next week?\" Miss Sugar calls. You have already signed up."
    }
   ],
   "hard": [
@@ -112,7 +112,7 @@
    },
    {
     "type": "text",
-    "text": "The teacher, Miss Honey, greets you with a bright smile. \"A new student,\" she says. \"Fresh hands. There is nothing I love more than fresh hands.\""
+    "text": "The teacher, Miss Sugar, greets you with a bright smile. \"A new student,\" she says. \"Fresh hands. There is nothing I love more than fresh hands.\""
    },
    {
     "type": "text",
@@ -129,18 +129,18 @@
      },
      {
       "en": "Okay, but I have never baked anything before.",
-      "ko": "저 한 번도 빵을 구워 본 적이 없어요.",
+      "ko": "네, 근데 저 한 번도 빵을 구워 본 적이 없어요.",
       "reaction": "\"Even better,\" she smiles. \"There is nothing I enjoy more than teaching a complete beginner. We will take it nice and slowly.\""
      }
     ]
    },
    {
     "type": "text",
-    "text": "Miss Honey sets a ball of soft dough in front of you. \"Now knead it,\" she says. \"Push with both hands and put your weight into it. Don't be shy — this dough responds to a firm touch.\""
+    "text": "Miss Sugar sets a ball of soft dough in front of you. \"Now knead it,\" she says. \"Push with both hands and put your weight into it. Don't be shy — this dough responds to a firm touch.\""
    },
    {
     "type": "text",
-    "text": "You push and fold, push and fold. \"Slower,\" she murmurs, standing close behind you. \"Find a rhythm you can keep all day. Feel how it softens under your hands.\""
+    "text": "You push and fold, push and fold. \"Slower,\" she murmurs. \"Find a rhythm you can keep all day. Feel how it softens under your hands.\""
    },
    {
     "type": "choice",
@@ -164,11 +164,11 @@
    },
    {
     "type": "text",
-    "text": "The oven has been on for a while, and the little room grows hot. Miss Honey fans her face. \"This heat,\" she sighs. \"You never quite get used to it. But without heat, nothing ever happens in here.\""
+    "text": "The oven has been on for a while, and the little room grows hot. Miss Sugar fans her face. \"This heat,\" she sighs. \"You never quite get used to it. But without heat, nothing ever happens in here.\""
    },
    {
     "type": "text",
-    "text": "You shape the risen dough into small round buns. \"Oh my,\" Miss Honey says softly, tilting her head. \"Lovely buns. Easily some of the finest I have seen in this class.\""
+    "text": "You shape the risen dough into small round buns. \"Oh my,\" Miss Sugar says softly, tilting her head. \"Lovely buns. Easily some of the finest I have seen in this class.\""
    },
    {
     "type": "choice",
@@ -182,17 +182,17 @@
      {
       "en": "Baking is far more fun than I expected.",
       "ko": "베이킹이 생각보다 훨씬 재미있네요.",
-      "reaction": "\"It always is,\" she says knowingly. \"The first time is fun. After that, it only gets better and better.\""
+      "reaction": "\"It always is,\" she says knowingly. \"Careful — once you start, it becomes very hard to stop.\""
      }
     ]
    },
    {
     "type": "text",
-    "text": "The buns come out of the oven golden and warm. Miss Honey hands you a bag of cream. \"Now for the filling,\" she says. \"Squeeze slowly, with steady pressure. Rush it, and the cream goes absolutely everywhere.\""
+    "text": "The buns come out of the oven golden and warm. Miss Sugar hands you a bag of cream. \"Now for the filling,\" she says. \"Squeeze slowly, with steady pressure. Rush it, and the cream goes absolutely everywhere.\""
    },
    {
     "type": "text",
-    "text": "You walk home with a box of warm cream buns, flour still dusting your shirt. \"Same time next week?\" Miss Honey calls from the doorway. You had signed up before she even finished the question."
+    "text": "You walk home with a box of warm cream buns, flour still dusting your shirt. \"Same time next week?\" Miss Sugar calls from the doorway. You had signed up before she even finished the question."
    }
   ]
  },
@@ -209,6 +209,7 @@
   "baked": {"pos": "동사", "ko": "(bake의 과거분사) 구워 본, 구웠다"},
   "baking": {"pos": "명사", "ko": "베이킹, 빵 굽기"},
   "ball": {"pos": "명사", "ko": "공, 둥근 덩어리"},
+  "becomes": {"pos": "동사", "ko": "(become의 3인칭) ~하게 되다"},
   "beginner": {"pos": "명사", "ko": "초보자"},
   "beginners": {"pos": "명사", "ko": "(beginner의 복수) 초보자들"},
   "both": {"pos": "형용사", "ko": "양쪽의, 둘 다"},
@@ -311,6 +312,7 @@
   "some": {"pos": "형용사", "ko": "몇몇의, 손꼽히는"},
   "soon": {"pos": "부사", "ko": "곧"},
   "standing": {"pos": "동사", "ko": "(stand의 -ing) 서서"},
+  "start": {"pos": "동사", "ko": "시작하다"},
   "steady": {"pos": "형용사", "ko": "일정한, 꾸준한"},
   "student": {"pos": "명사", "ko": "학생, 수강생"},
   "sugar": {"pos": "명사", "ko": "설탕"},
@@ -334,13 +336,13 @@
   "work": {"pos": "명사", "ko": "일, 작업"}
  },
  "wink": {
-  "knead": "반죽을 치대다 — 손길이 유난히 다정하게 들릴 수 있는 단어예요.",
-  "firm": "단단한, 확실한 — 반죽 말고 다른 것의 세기를 말하는 걸로 들릴 수 있어요.",
+  "knead": "반죽을 치대다, 주무르다 — '주무르다'가 꼭 반죽에만 쓰는 말은 아니죠.",
+  "firm": "단단한, 확실한 — 반죽 말고 다른 걸 만질 때의 손길 얘기로 들릴 수 있어요.",
   "rhythm": "리듬 — 반죽에만 필요한 건 아니라는 말투로 들릴 수 있어요.",
-  "rise": "부풀어 오르다 — 빵 말고 다른 것이 일어난다는 뜻으로도 들려요.",
+  "rise": "부풀어 오르다 — 빵 말고 다른 것도 일어선다는 뜻으로 들릴 수 있어요.",
   "hot": "뜨거운 — 오븐 온도만 말하는 게 아닐 수도 있어요.",
-  "buns": "둥근 빵 — 영어에서는 엉덩이를 귀엽게 부르는 말이기도 해요.",
+  "buns": "둥근 빵 — 빵이 아닌 다른 둥근 것을 칭찬하는 걸로 들릴 수 있어요.",
   "squeeze": "짜다, 쥐다 — 천천히 일정한 압력으로 하라는 조언이 묘하게 들릴 수 있어요.",
-  "cream": "크림 — 행간에서는 조금 다른 상상을 부를 수 있는 단어예요."
+  "cream": "크림 — '천천히, 일정한 압력으로 짜세요'라는 조언과 만나면 빵 얘기로만 들리지 않아요."
  }
 }
